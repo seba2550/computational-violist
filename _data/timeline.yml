@@ -27,6 +27,8 @@
     - tag: PostgreSQL
     - tag: Rails
     - tag: Bash
+    - tag: Docker
+    - tag: Jupyter Notebook
   timeline-side: left
 
 - title: Massachusetts Institute of Technology
@@ -55,6 +57,7 @@
     - tag: R
     - tag: Python
     - tag: Bash
+    - tag: blast+ (CLI)
   timeline-side: right
 
 - title: University of Puerto Rico, Río Piedras Campus
