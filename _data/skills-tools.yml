@@ -29,7 +29,7 @@
 - name: HMMRATAC
   weight: 4
 
-- name: blast+ (CLI)
+- name: blast+
   weight: 5
   
 - name: Jupyter Notebooks
