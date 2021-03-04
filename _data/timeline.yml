@@ -27,7 +27,7 @@
     - tag: PostgreSQL
     - tag: Rails
     - tag: Bash
-  timeline-side: right
+  timeline-side: left
 
 - title: Massachusetts Institute of Technology
   title-url: https://www.genes.mit.edu/
@@ -35,7 +35,7 @@
   subtitle: Summer Research Student at the Burge Lab (Funded by the Gould Fellowship)
   tags:
     - tag: R
-  timeline-side: left
+  timeline-side: right
 
 - title: University of Pittsburgh, Hillman Cancer Center
   title-url: http://www.cagenome.org/lab/
@@ -45,7 +45,7 @@
     - tag: R
     - tag: Perl
     - tag: Bash
-  timeline-side: right
+  timeline-side: left
 
 - title: University of Puerto Rico, Río Piedras Campus
   title-url: https://devneurolab220.wixsite.com/devneuro
@@ -55,10 +55,10 @@
     - tag: R
     - tag: Python
     - tag: Bash
-  timeline-side: left
+  timeline-side: right
 
 - title: University of Puerto Rico, Río Piedras Campus
   title-url: https://natsci.uprrp.edu/biology/
   date: 2015 - 2020
   subtitle: B.S. Molecular and Cell Biology
-  timeline-side: right
+  timeline-side: left
