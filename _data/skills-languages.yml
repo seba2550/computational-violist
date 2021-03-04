@@ -5,8 +5,6 @@
 # - name: Language
 #   weight: 5
 
-- name: Bash
-  weight: 5
 
 - name: R
   weight: 5
