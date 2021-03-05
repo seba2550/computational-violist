@@ -1,4 +1,4 @@
-I am an incoming graduate student at *REDACTED*
+I am an incoming graduate student at (*school to be announced at a later date*)
 
 ### Research Interests:
   * Multi-omics Approaches
