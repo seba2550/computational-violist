@@ -1,7 +1,7 @@
 I am an incoming graduate student at *REDACTED*
 
 ### Research Interests:
-  * Multi-omics Datasets
+  * Multi-omics Approaches
   * Personalized Medicine
   * Machine Learning
   * Population Genetics and Evolution
