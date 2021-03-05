@@ -1,2 +1,10 @@
-<h1 class="title">{{site.about_me_title}}</h1>
-<p class="description" data-aos="fade-down">{{site.about_me_description}}</p>
+<div class="container" >
+	<h1 class="title">{{site.about_me_title}}</h1>
+	<div style="display: flex, flex-wrap: wrap;" class="p-0">
+		<div class="profile col-4 " style="float: left;">
+			<img src="/computational-violist/assets/images/tiny_pic2.png" alt="Profile Picture" style="height:320px;margin: 0px 30px 40px 0px;object-fit:cover;" >
+		</div>
+	</div>
+	{% capture about %}{% include aboutme.md %}{% endcapture %}
+	<p class="description" data-aos="fade-down">{{ about | markdownify}}</p>
+</div>
