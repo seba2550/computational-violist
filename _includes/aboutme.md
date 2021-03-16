@@ -1,4 +1,4 @@
-I am an incoming graduate student at (*school to be announced at a later date*)
+I am an incoming graduate student in the Biological and Medical Informatics Ph.D. program at the University of California, San Francisco.
 
 ### Research Interests:
   * Multi-omics Approaches
