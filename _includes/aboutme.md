@@ -1,4 +1,4 @@
-I am an incoming graduate student in the Biological and Medical Informatics Ph.D. program at the University of California, San Francisco.
+I am an incoming graduate student in the Biological and Medical Informatics Ph.D. program at UCSF.
 
 ### Research Interests:
   * Multi-omics Approaches
