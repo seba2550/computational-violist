@@ -17,15 +17,27 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: University of California San Francisco
+  title-url: http://www.icompbio.net/people/faculty/william-s-bush/
+  date: Jul 2021 - ?
+  subtitle: Graduate Student in the Biological and Medical Informatics Program
+  tags:
+    - tag: R
+    - tag: Python
+    - tag: PostgreSQL
+    - tag: Bash
+    - tag: Docker
+    - tag: Jupyter Notebook
+  timeline-side: right
+  
 - title: Case Western Reserve University
   title-url: http://www.icompbio.net/people/faculty/william-s-bush/
-  date: Jul 2020 - Present
+  date: Jul 2020 - June 2021
   subtitle: PREP Scholar at the Bush Lab
   tags:
     - tag: R
     - tag: Python
     - tag: PostgreSQL
-    - tag: Rails
     - tag: Bash
     - tag: Docker
     - tag: Jupyter Notebook
