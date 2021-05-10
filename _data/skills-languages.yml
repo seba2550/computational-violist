@@ -12,9 +12,6 @@
 - name: Python
   weight: 2
 
-- name: HTML5
-  weight: 2
-
 - name: PostgreSQL
   weight: 3
 
