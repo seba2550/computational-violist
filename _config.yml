@@ -14,7 +14,7 @@ baseurl: ""
 username: Sebastián Cruz-González
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Graduate Student at UCSF
+typing_text: Graduate Student @ UCSF
 # email: Your E-Mail address for the email button.
 email: Sebastian.CruzGonzalez@ucsf.edu
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am an incoming graduate student at *REDACTED*. I have worked on all kinds of interesting projects, including regeneration in sea cucumbers, SNPs in 3 prime UTRs, SVs in luminal breast cancer, and MS in Puerto Rican individuals. During my training I plan to work on human genetics/disease to provide new insights into how powerful computational approaches can be used to improve the way we diagnose, treat, and think about disease, preferably in a more personalized and inclusive manner.
+about_me_description: I am an incoming graduate student at UCSF. I have worked on all kinds of interesting projects, including regeneration in sea cucumbers, SNPs in 3 prime UTRs, SVs in luminal breast cancer, and MS in Puerto Rican individuals. During my training I plan to work on human genetics/disease to provide new insights into how powerful computational approaches can be used to improve the way we diagnose, treat, and think about disease, preferably in a more personalized and inclusive manner.
 
 # SKILLS SECTION
 # show_skills_card:
