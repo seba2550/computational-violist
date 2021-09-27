@@ -5,8 +5,6 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
-  weight: 2
 
 - name: Bash
   weight: 5
@@ -36,4 +34,4 @@
   weight: 4
   
 - name: Docker
-  weight: 3
+  weight: 1
