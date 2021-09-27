@@ -26,7 +26,6 @@
     - tag: Python
     - tag: PostgreSQL
     - tag: Bash
-    - tag: Docker
     - tag: Jupyter Notebook
   timeline-side: right
   
