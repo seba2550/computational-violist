@@ -1,7 +1,7 @@
-I am an incoming graduate student in the Biological and Medical Informatics Ph.D. program at UCSF.
+I am a graduate student and IMSD Fellow in the Biological and Medical Informatics Ph.D. program at UCSF!
 
 ### Research Interests:
-  * Multi-omics Approaches
+  * Multi-omics Data
   * Personalized Medicine
   * Machine Learning
   * Population Genetics and Evolution
