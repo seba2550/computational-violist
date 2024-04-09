@@ -10,16 +10,10 @@
   weight: 5
 
 - name: Python
-  weight: 2
+  weight: 4
 
 - name: PostgreSQL
   weight: 3
-
-- name: Julia
-  weight: 1
-
-- name: Perl
-  weight: 1
 
 - name: C++
   weight: 2
