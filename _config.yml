@@ -14,7 +14,7 @@ baseurl: ""
 username: Sebastián Cruz-González
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Graduate Student @ UCSF
+typing_text: PhD Candidate @ UCSF
 # email: Your E-Mail address for the email button.
 email: Sebastian.CruzGonzalez@ucsf.edu
 # For every social button you want to display, set your username or userid
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Research Experiences
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.dropbox.com/s/qf89n16uq8m0944/SCG%20CV.docx?dl=0
+cv_download_link: https://www.dropbox.com/scl/fi/avqcm06mbjhpmsriiz35s/SCG_CV_2024-1.pdf?rlkey=7ldqtxkkslfg3lcdt5g1nzx45&dl=0
 
 # PROJECTS SECTION
 # show_projects_card:
