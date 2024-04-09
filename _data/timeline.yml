@@ -5,27 +5,15 @@
 # > tags: List of tags you want to associate with the entry
 # > timeline-side: The side on which you want to display the entry: left or right
 
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-#   timeline-side: right
-
 - title: University of California San Francisco
-  title-url: http://www.icompbio.net/people/faculty/william-s-bush/
+  title-url: https://capralab.github.io/
   date: Jul 2021 - ?
-  subtitle: Graduate Student in the Biological and Medical Informatics Program
+  subtitle: PhD Candidate and Genentech-UCSF School of Pharmacy Fellow
   tags:
     - tag: R
     - tag: Python
-    - tag: PostgreSQL
     - tag: Bash
+    - tag: XGBoost
     - tag: Jupyter Notebook
   timeline-side: right
   
