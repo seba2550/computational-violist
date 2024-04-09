@@ -19,19 +19,13 @@
   weight: 2
 
 - name: bedtools
-  weight: 3
-
-- name: bwa
-  weight: 3
-
-- name: HMMRATAC
-  weight: 4
-
-- name: blast+
   weight: 5
   
 - name: Jupyter Notebooks
   weight: 4
-  
-- name: Docker
+
+- name: XGBoost
+  weight: 4
+
+- name: Pytorch
   weight: 1
